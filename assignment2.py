@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 class PaintTool(object):
 
     def __init__(self,bgcolour):
@@ -67,10 +68,7 @@ class PaintTool(object):
                 self._coords.clear()
             except TypeError() or ValueError():
                 raise Exception("Error!!! No shape and/or colour chosen.")
-                pass
-    
 
-    
 
 if __name__ == "__main__":
     white = "white"

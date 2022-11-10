@@ -5,4 +5,4 @@ A paint tool based on using coloured ovals, rectangles, or lines.
 
 Colour and Shape must be chosen to avoid an exception.
 
-Ability to modify canvas colour by changing passed-in argument value.
+Ability to modify canvas colour by changing class instance argument.

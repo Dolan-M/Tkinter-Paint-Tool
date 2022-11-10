@@ -5,4 +5,4 @@ A paint tool based on using coloured ovals, rectangles, or lines.
 
 Colour and Shape must be chosen to avoid an exception.
 
-Canvas colour can be modified.
+Ability to modify canvas colour by changing argument value.
